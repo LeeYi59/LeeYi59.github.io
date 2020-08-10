@@ -695,7 +695,8 @@ google_analytics:
   only_pageview: false
 
 # Baidu Analytics
-baidu_analytics: eb1e3592226ee8703aa28d865d15e1d8 # <app_id>
+#百度分析
+baidu_analytics: 999857c51c91b51bc64e551f34da568f 
 
 # Growingio Analytics
 growingio_analytics: # <project_id>
@@ -897,7 +898,7 @@ canvas_ribbon:
 # Script Vendors. Set a CDN address for the vendor you want to customize.
 # Be aware that you would better use the same version as internal ones to avoid potential problems.
 # Remember to use the https protocol of CDN files when you enable https on your site.
-vendors:
+vendors:    
   # Internal path prefix.
   _internal: lib
 

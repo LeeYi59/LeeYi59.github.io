@@ -112,6 +112,6 @@ sitemap:
   path: sitemap.xml
 baidu_url_submit:
   count: 5
-  host: www.im111.tk
+  host: www.im111.top
   token: wcMpfBUaJU7yupzQ
   path: baidu_urls.txt
