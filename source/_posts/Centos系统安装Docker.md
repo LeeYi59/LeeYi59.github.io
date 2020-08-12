@@ -58,7 +58,7 @@ sudo yum-config-manager \
 yum list docker-ce --showduplicates | sort -r
 ```
 
-![Image](C:\Users\398BIG~1\AppData\Local\Temp\Image.png)
+![Image](Centos系统安装Docker/Image.png)
 
 安装命令
 
