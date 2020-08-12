@@ -4,6 +4,7 @@ date: 2020-08-10 15:47:41
 tags:
 - Linux
 - 命令行
+- Centos
 categories:
 - Linux
 ---
