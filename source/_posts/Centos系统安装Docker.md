@@ -58,7 +58,7 @@ sudo yum-config-manager \
 yum list docker-ce --showduplicates | sort -r
 ```
 
-![Image](Centos系统安装Docker/Image.png)
+{% asset_img Image.png This is an example image %}
 
 安装命令
 
