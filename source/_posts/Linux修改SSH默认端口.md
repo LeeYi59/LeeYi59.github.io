@@ -7,8 +7,6 @@ categories:
 - Linux
 ---
 
-### ##修改ssh默认端口
-
 找到/etc/ssh 目录，修改sshd_config文件
 
 <!--more-->

@@ -7,7 +7,6 @@ categories:
 - Linux
 ---
 
-### ## 用户和用户组操作
 **创建用户**
 
 ```shell
