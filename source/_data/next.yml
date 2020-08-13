@@ -629,9 +629,9 @@ changyan:
 valine:
   enable: true
   # Your leancloud application appid
-  appid: UpYdhhDgjImoKgYqrMa2Dg3p-9Nh9j0Va
+  appid: AggpPyndfO1S1NN4MC7RwAs8-gzGzoHsz
   # Your leancloud application appkey
-  appkey: MDaePHufiuIKRC3Um8tBReIE   
+  appkey: 0J57sEilToIPAOgMjLfRQ3ju   
   notify: true # Mail notifier
   verify: true # Verification code
   placeholder: 留下您宝贵的发言 # Comment box placeholder
