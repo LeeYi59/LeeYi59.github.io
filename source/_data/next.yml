@@ -587,7 +587,7 @@ comments:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
-  lazyload: true
+  lazyload: false
   # Modify texts or order for any navs, here are some examples.
   nav:
     #disqus:
@@ -631,7 +631,7 @@ valine:
   # Your leancloud application appid
   appid: UpYdhhDgjImoKgYqrMa2Dg3p-9Nh9j0Va
   # Your leancloud application appkey
-  appkey: MDaePHufiuIKRC3Um8tBReIE 
+  appkey: MDaePHufiuIKRC3Um8tBReIE   
   notify: true # Mail notifier
   verify: true # Verification code
   placeholder: 留下您宝贵的发言 # Comment box placeholder
