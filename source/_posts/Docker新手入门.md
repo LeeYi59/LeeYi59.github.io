@@ -1,6 +1,7 @@
 ---
 title: Docker新手入门
 date: 2020-08-12 11:31:01
+top: true
 tags:
 - Docker
 categories:
@@ -71,5 +72,5 @@ docker exec -it 62349aa31687 /bin/bash
 <font style="color:blue">常见问题：</font>
 如果安装完毕后出现拉取镜像失败的情况，可通过配置`镜像加速器`来加快连接速度。
 
-**配置镜像加速：**{% post_link Centos系统安装DockerCompose的两种方法 %}
+**配置镜像加速：**{% post_link Docker配置镜像加速器 %}
 
