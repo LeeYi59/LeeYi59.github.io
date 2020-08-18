@@ -74,7 +74,7 @@ footer:
   #备案号
   beian:
     enable: true
-    icp: 粤ICP备20072499号-1
+    icp: 粤ICP备20072499号
     # The digit in the num of gongan beian.
     gongan_id:
     # The full num of gongan beian.
